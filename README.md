@@ -7,7 +7,7 @@
    **Mac / 8 GB laptops:** instance → Settings → Java → Memory → **3072 MB** (the pack already has Sodium and
    light video settings; raise render distance if you have fps to spare).
 3. Launch it → Multiplayer → **Gun Duel** is already in the list (85.214.218.112:25580).
-   Tim has to whitelist your name first.
+   No whitelist — just hit join and play. (You need a real Minecraft account.)
 
 **Playing:** right-click the compass → pick 1v1 / 2v2 / 3v3 / 4v4. When the queue is full the match starts.
 Each round you pick 1 of 2 random guns (+ a Glock), ammo is infinite, no respawns, first to 7 rounds.
